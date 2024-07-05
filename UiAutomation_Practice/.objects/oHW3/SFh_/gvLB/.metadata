@@ -1,0 +1,12 @@
+﻿{
+  "Name": "DoubleUI",
+  "Type": "Screen",
+  "Id": "gvLBA3aIF0izVxAqjZGNVQ",
+  "Reference": "FTh5opC5vEC3wIDxZ7UK2A/gvLBA3aIF0izVxAqjZGNVQ",
+  "ParentRef": "FTh5opC5vEC3wIDxZ7UK2A/SFh_HrlW3ki6uYY-78LRCg",
+  "Created": "2024-07-05T06:12:54.9898093Z",
+  "Updated": "2024-07-05T06:12:54.9898093Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=24.10.3.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}
